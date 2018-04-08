@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CobayeControleSouris:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CobayeControleSouris_jar</output-path>
+    <root id="archive" name="CobayeControleSouris.jar">
+      <element id="module-output" name="CobayeControleSouris" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/bluecove-2.1.1-20101024.214840-60.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
